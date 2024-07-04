@@ -1,5 +1,5 @@
 # MP4-PNG
-MP4 - PNG converter using ffmpeg
+MP4 - PNG converter using ffmpeg. Coded in Python
 
 Converts the selected MP4 file into a PNG sequence at full resolution.
 
