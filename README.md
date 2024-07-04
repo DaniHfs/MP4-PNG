@@ -3,7 +3,8 @@ MP4 - PNG converter using ffmpeg. Coded in Python
 
 Converts the selected MP4 file into a PNG sequence at full resolution.
 
-Select the input file and the output location and press "Convert"
+Run mp4-png.exe, select the input file and the output location and press "Convert".
+ffmpeg.exe is a necessary dependency for the program to function, do not run mp4-png.exe without having ffmpeg.exe in the same folder.
 
 # Too large for github, check releases for file link
 
